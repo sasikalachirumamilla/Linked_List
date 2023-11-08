@@ -53,7 +53,7 @@ n4.next=n5
 print("Linked List is")
 L.display()
 
-print("\nAfter inserting an element at Beginning ")
+print("\nAfter inserting an element at Begining ")
 L.insertatBeginning(60)
 L.display()
 
