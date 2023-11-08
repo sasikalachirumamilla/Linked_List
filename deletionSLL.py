@@ -70,5 +70,5 @@ L.display()
 
 print("Deleting at certain position")
 L.delete_position(2)
-L.display
+L.display()
             
