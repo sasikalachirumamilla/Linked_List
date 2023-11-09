@@ -62,6 +62,6 @@ L.deleteBegining()
 L.display()
 L.deleteEnding()
 L.display()
-L.deletePosition(2)
+L.deletePosition(1)
 L.display()
 
