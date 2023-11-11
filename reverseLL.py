@@ -34,7 +34,7 @@ n2=Node(20)
 n1.next=n2
 n3=Node(30)
 n2.next=n3
-print("Linked List is:")
+print("LinkedList is:")
 L.display()
 print("\nReverse of a Linked List is:")
 L.reverse()
